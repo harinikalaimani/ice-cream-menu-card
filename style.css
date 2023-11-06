@@ -1,0 +1,65 @@
+
+body{
+    font-family: "Lucida Console", "Courier New", monospace;
+    background-image: url(./image/ice\ opacity\ bg.png);
+    background-size: cover;
+    
+
+}
+
+
+
+.head{
+    text-align: center;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.img1{
+    margin-top: 10px;
+    height: 220px;
+    width:350px;
+    margin-left: 5px;
+}
+.img2{
+    height: 150px;
+    width:150px;
+    margin-right: 60px
+    
+   
+}
+.img3{
+    
+    height: 300px;
+    width:150px;
+}
+.d-flex{
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+.item2{
+    margin-top: 60px;
+    
+    
+}
+.item5{
+    margin-left: 600px;
+    margin-top: 20px;
+
+}
+.item4{
+    margin-right:60px ;
+    
+}
+.shake{
+    display: flex;
+    margin-top: 80px;
+    margin-right: 60px;
+    justify-content: space-between;
+}
